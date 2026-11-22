@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorplage",
+  "repo": "NDesumeur/neodex-plugin-decor-plage",
+  "version": "1.0.0",
+  "sha256": "1119894a4f0eb0970c4434282e6a0765fba2c17cf1c09573495e37a31c3ff71e",
+  "approvedAt": "2026-11-22T19:05:25.721Z",
+  "neobase": ">=4.1.0",
+  "signature": "YCXivnQ2aW0RuuBiCbWIXeHfquGKKTHJKo81IjaoI8UAy22Oz+aqtUzVgpxnoUGfvxKs9eZZO3vnvB+9kX2bAg=="
+}
